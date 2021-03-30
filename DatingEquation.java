@@ -20,7 +20,7 @@ public class DatingEquation{
         return "Your lower bound for the socially acceptable age of a potential" 
         + "dating partner is: " + age() / 2 + 7;
     }
-    public void showAcceptableDate(){
+    public void ProveDate(){
         System.out.println("=============Dating Equation=============");
         System.out.println("Enter your age (an whole number)");
         setAge();
