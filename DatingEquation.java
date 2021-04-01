@@ -22,7 +22,7 @@ public class DatingEquation{
     }
     public void proveDate(){
         System.out.println("=============Dating Equation=============");
-        System.out.println("Enter your age (an whole number):");
+        System.out.println("Enter your age (a whole number):");
         setAge();
     }
 }
